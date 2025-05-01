@@ -12,7 +12,7 @@ In this article, I explain the **fundamentals of LoRa** in the most understandab
 - Easy-to-follow diagrams and visuals
 - Simplified breakdown of technical topics
 
-📖 **Read it here**: [LoRa Theory Blog on Medium](https://your-part1-medium-link.com)
+📖 **Read it here**: [LoRA Concept Blog on Medium](https://your-part1-medium-link.com)
 
 ---
 
@@ -25,6 +25,6 @@ You'll find:
 - Function-by-function explanations
 - Clear guidance for beginners
 
-🧪 **Read it here**: [LoRa Code Implementation Blog on Medium](https://your-part2-medium-link.com)
+🧪 **Read it here**: [LoRA Code Implementation Blog on Medium](https://your-part2-medium-link.com)
 
 ---
