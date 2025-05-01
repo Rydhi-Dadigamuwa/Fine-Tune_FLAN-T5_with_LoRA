@@ -1,6 +1,6 @@
-# 📡 LoRa: From Basics to Implementation
+# 📡 LoRA: From Basics to Implementation
 
-Welcome! This repository complements a **two-part blog series** I’ve published on Medium, where I explain everything about **LoRa (Long Range communication)** from theory to practical coding.
+Welcome! This repository complements a **two-part blog series** I’ve published on Medium, where I explain everything about **LoRA (Low-Rank Adaptation)** from theory to practical coding.
 
 ---
 
