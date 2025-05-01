@@ -6,9 +6,9 @@ Welcome! This repository complements a **two-part blog series** I’ve published
 
 ## 🧠 Part 1 – LoRa Theory Explained from Scratch
 
-In this article, I explain the **fundamentals of LoRa** in the most understandable way possible. It covers:
+In this article, I explain the **fundamentals of LoRA** in the most understandable way possible. It covers:
 
-- Core concepts of LoRa
+- Core concepts of LoRA
 - Easy-to-follow diagrams and visuals
 - Simplified breakdown of technical topics
 
@@ -18,7 +18,7 @@ In this article, I explain the **fundamentals of LoRa** in the most understandab
 
 ## 💻 Part 2 – Code Implementation & Explanation
 
-This article walks you through the **coding aspect of LoRa**, ideal for learners who want to move from understanding the theory to building projects.
+This article walks you through the **coding aspect of LoRA**, ideal for learners who want to move from understanding the theory to building projects.
 
 You'll find:
 - Complete code implementations
