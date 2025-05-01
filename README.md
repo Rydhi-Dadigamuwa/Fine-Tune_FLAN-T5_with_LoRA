@@ -4,7 +4,7 @@ Welcome! This repository complements a **two-part blog series** I’ve published
 
 ---
 
-## 🧠 Part 1 – LoRa Theory Explained from Scratch
+## 🧠 Part 1 – LoRA Theory Explained from Scratch
 
 In this article, I explain the **fundamentals of LoRA** in the most understandable way possible. It covers:
 
