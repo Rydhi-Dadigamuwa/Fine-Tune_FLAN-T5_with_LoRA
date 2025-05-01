@@ -1,8 +1,30 @@
-# Fine-Tune_FLAN-T5_with_LoRA
+# 📡 LoRa: From Basics to Implementation
 
-### I've published a comprehensive blog on Medium where I explain from scratch with easy-to-understand diagrams and coding implementations. 
-<br/>
+Welcome! This repository complements a **two-part blog series** I’ve published on Medium, where I explain everything about **LoRa (Long Range communication)** from theory to practical coding.
 
-### Curious to learn more? Check out the full article [here!](https://medium.com/p/59bb4f14518b)
-<br/>
+---
 
+## 🧠 Part 1 – LoRa Theory Explained from Scratch
+
+In this article, I explain the **fundamentals of LoRa** in the most understandable way possible. It covers:
+
+- Core concepts of LoRa
+- Easy-to-follow diagrams and visuals
+- Simplified breakdown of technical topics
+
+📖 **Read it here**: [LoRa Theory Blog on Medium](https://your-part1-medium-link.com)
+
+---
+
+## 💻 Part 2 – Code Implementation & Explanation
+
+This article walks you through the **coding aspect of LoRa**, ideal for learners who want to move from understanding the theory to building projects.
+
+You'll find:
+- Complete code implementations
+- Function-by-function explanations
+- Clear guidance for beginners
+
+🧪 **Read it here**: [LoRa Code Implementation Blog on Medium](https://your-part2-medium-link.com)
+
+---
